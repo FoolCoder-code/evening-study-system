@@ -1,1 +1,1 @@
-"# evening-study-system" 
+# evening-study-system
